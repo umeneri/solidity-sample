@@ -1,0 +1,24 @@
+{
+  "name": "solidity-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umeneri/solidity-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umeneri/solidity-sample/issues"
+  },
+  "homepage": "https://github.com/umeneri/solidity-sample#readme",
+  "dependencies": {
+    "ganache": "^7.0.4",
+    "truffle": "^5.5.10",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
